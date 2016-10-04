@@ -1,0 +1,15 @@
+
+#results {
+  display: none;
+}
+
+.lead {
+  font-weight: bold;
+  font-size: 50px;
+  font-style: italic;
+}
+
+body {
+    background-image: url("img/giphy.gif");
+    background-repeat: no-repeat;
+}
